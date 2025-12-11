@@ -5,7 +5,7 @@ It includes dataset creation, model training, and live face recognition using we
 
 🚀 Features
 
-Real-time face detection using Haarcascade
+Real-time face detection using Haarcascade  
 
 LBPH face recognition
 
