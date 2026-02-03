@@ -1,9 +1,9 @@
-🎭 Face Detection & Recognition System Using OpenCV & LBPH
+# 🎭 Face Detection & Recognition System Using OpenCV & LBPH
 
 This project implements a complete real-time face detection and recognition system using Python, OpenCV, Haarcascade, and the LBPH (Local Binary Pattern Histogram) algorithm.
 It includes dataset creation, model training, and live face recognition using webcam input.
 
-🚀 Features
+## 🚀 Features
 
 Real-time face detection using Haarcascade  
 
@@ -17,7 +17,7 @@ Live recognition with name display
 
 Fully offline – no internet needed
 
-🧩 Project Workflow
+### 🧩 Project Workflow
 1️⃣ Dataset Creation — face_datasets.py
 
 Captures face images from webcam
@@ -29,7 +29,7 @@ Saves images in dataset/<name>.<id>.<count>.jpg
 Uses: haarcascade_frontalface_default.xml
 
 
-face_datasets
+### face_datasets
 
 2️⃣ Training the Model — training.py
 
