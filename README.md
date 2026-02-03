@@ -59,7 +59,7 @@ Looks up the name using names.csv
 Displays name above the detected face
 
 
-face_recognition
+## face_recognition
 
 📂 Project Structure
 project/
